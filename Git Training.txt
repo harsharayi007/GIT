@@ -1,1 +1,2 @@
 This is my first git training
+i updated 2nd line in git and updloaded into GITHUB- 15 May 2023 at 12:45pm
